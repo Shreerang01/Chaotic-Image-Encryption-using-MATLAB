@@ -10,9 +10,10 @@ What distinguishes this project is its implementation of chaos theory in image e
 ## Screenshots
 ![MATLAB_dsMsb4Nk7v](https://github.com/Shreerang01/Chaotic-Image-Encryption-using-MATLAB/assets/113919844/d42be166-bc8f-4749-979f-e3382a574b9b) 
 ![MATLAB_E1QSBWwuWp](https://github.com/Shreerang01/Chaotic-Image-Encryption-using-MATLAB/assets/113919844/255dc09d-f3c3-4413-a66a-46f87332b8a3)
-![Image 3](URL_for_Image_3) ![Image 4](URL_for_Image_4)
-![Image 5](URL_for_Image_5) ![Image 6](URL_for_Image_6)
-
+![MATLAB_uwwTAparmj](https://github.com/Shreerang01/Chaotic-Image-Encryption-using-MATLAB/assets/113919844/468d1de7-7617-4f73-bab6-1bb07dee86f2)
+![MATLAB_0xguac2VuV](https://github.com/Shreerang01/Chaotic-Image-Encryption-using-MATLAB/assets/113919844/8d237112-929a-4fd3-9352-d6c21aab1505)
+![MATLAB_h5bYxmc0aU](https://github.com/Shreerang01/Chaotic-Image-Encryption-using-MATLAB/assets/113919844/211d9499-e74d-49f9-a50f-e2e89fd3a5ac)
+![MATLAB_0ZIY2Sjg8F](https://github.com/Shreerang01/Chaotic-Image-Encryption-using-MATLAB/assets/113919844/f6036c05-53bd-43bc-84b0-5511ac665e78)
 
 ## Table of Contents
 
