@@ -8,7 +8,8 @@ The core objective of the Chaotic Image Encryption project is to provide users w
 What distinguishes this project is its implementation of chaos theory in image encryption, offering a unique perspective on securing digital content. The MATLAB environment facilitates a user-friendly interface, making it accessible for academics, researchers, and developers interested in exploring cryptographic algorithms and their applications. The provided methodology ensures a smooth transition from image encryption to decryption, emphasizing the importance of chaos in modern information security.
 
 ## Screenshots
-![Image 1](URL_for_Image_1) ![Image 2](URL_for_Image_2)
+![MATLAB_dsMsb4Nk7v](https://github.com/Shreerang01/Chaotic-Image-Encryption-using-MATLAB/assets/113919844/d42be166-bc8f-4749-979f-e3382a574b9b) 
+![MATLAB_E1QSBWwuWp](https://github.com/Shreerang01/Chaotic-Image-Encryption-using-MATLAB/assets/113919844/255dc09d-f3c3-4413-a66a-46f87332b8a3)
 ![Image 3](URL_for_Image_3) ![Image 4](URL_for_Image_4)
 ![Image 5](URL_for_Image_5) ![Image 6](URL_for_Image_6)
 
